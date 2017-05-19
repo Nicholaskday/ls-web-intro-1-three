@@ -1,0 +1,112 @@
+#header {
+  background-color: purple;
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 0
+}
+
+#body {
+  background-color: red;
+  height: 100%;
+  position: fixed;
+  right: 150px;
+  left: 150px;
+  top: 100px;
+  z-index: 0
+}
+
+#boxOne {
+  background-color: blue;
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  left: 250px;
+  right: 275px;
+  top: 125px;
+  z-index: 1
+}
+
+#boxTwo {
+  background-color: blue;
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  left: 250px;
+  right:275px;
+  top: 350px;
+  z-index: 1
+}
+
+#boxThree {
+  background-color: blue;
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  left: 250px;
+  right: 275px;
+  top: 575px;
+  z-index: 1
+}
+
+#picOne {
+  background-color: yellow;
+  width: 125px;
+  height: 125px;
+  position: fixed;
+  left: 275px;
+  top: 150px;
+  z-index: 2
+}
+
+#picTwo {
+  background-color: yellow;
+  width: 125px;
+  height: 125px;
+  position: fixed;
+  left: 275px;
+  top: 375px;
+  z-index: 2
+}
+
+#picThree {
+  background-color: yellow;
+  width: 125px;
+  height: 125px;
+  position: fixed;
+  left: 275px;
+  top: 600px;
+  z-index: 2
+}
+
+#pOne {
+  background-color: green;
+  width: 200px;
+  height: 150px;
+  position: fixed;
+  left: 425px;
+  top: 150px;
+  z-index: 2
+}
+
+#pTwo {
+  background-color: green;
+  width: 200px;
+  height: 150px;
+  position: fixed;
+  left: 425px;
+  top: 375px;
+  z-index: 2
+}
+
+#pThree {
+  background-color: green;
+  width: 200px;
+  height: 150px;
+  position: fixed;
+  left: 425px;
+  top: 600px;
+  z-index: 2
+}
